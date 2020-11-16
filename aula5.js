@@ -1,6 +1,7 @@
 const { alfabeto } = require('./base');
 
-// [abc] -> Conjunto [^] -> Negação
+// [abc] -> Conjunto 
+// [^] -> Negação
 // [0-9]
 // [min-maxQUALQUERCOISA] 
 // [^min-maxQUALQUERCOISA] -> Tudo menos isso
